@@ -13,6 +13,7 @@
   "dependencies": {
     "@strapi/plugin-cloud": "5.4.0",
     "@strapi/plugin-users-permissions": "5.4.0",
+    "@strapi/provider-upload-cloudinary": "^5.4.2",
     "@strapi/strapi": "5.4.0",
     "pg": "8.8.0",
     "react": "^18.0.0",
